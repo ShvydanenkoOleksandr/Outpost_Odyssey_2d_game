@@ -5141,7 +5141,7 @@ MonoBehaviour:
   startingHealth: 10
   deathVFXPrefab: {fileID: 8982851043159796242}
   knokBackThrust: 23
-  destructionDelay: 1
+  destructionDelay: 0.5
 --- !u!114 &7292369995697824111
 MonoBehaviour:
   m_ObjectHideFlags: 0
