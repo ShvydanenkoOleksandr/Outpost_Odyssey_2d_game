@@ -16,3 +16,8 @@ Fight location - https://assetstore.unity.com/packages/2d/environments/2d-topdow
 Slime - https://rvros.itch.io/pixel-art-animated-slime
 Font - https://assetstore.unity.com/account/assets
 
+Game trailer:
+
+
+https://github.com/user-attachments/assets/6cbc9716-82a2-49c9-9510-1d7330c9bc7d
+
