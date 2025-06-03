@@ -1,7 +1,7 @@
 1. Names and matrikelnummer of all group members.
-Oleksandr Shvydanenko - k12148554. Tara Jadidi - k12230863
+Oleksandr Shvydanenko - k12148554
 2. Responsibilities of each group member
-Oleksandr created all the game mechanics and the game trailer. Tara took notes from the playtesting session
+Oleksandr created all the game mechanics and the game trailer
 3. Overview of game controls (even if accessible within the in-game)
 WASD - movement. Space - Attack. Shift - Dash. 
 4. Any additional information important to run the game (e.g., if a certain screen resolution is assumed)
