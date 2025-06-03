@@ -1,12 +1,11 @@
-1. Names and matrikelnummer of all group members.
-Oleksandr Shvydanenko - k12148554
-2. Responsibilities of each group member
-Oleksandr created all the game mechanics and the game trailer
-3. Overview of game controls (even if accessible within the in-game)
+Outpost Odyssey is a 2D top-down adventure game set in a magical winter village during the Christmas holidays. The player starts missions to help the villagers prepare for the celebrations by going through location exploration and light combat. The game features animated characters, enemies that react to the player's actions, and a shop where you can improve your skills.
+
+Overview of game controls:
 WASD - movement. Space - Attack. Shift - Dash. 
-4. Any additional information important to run the game (e.g., if a certain screen resolution is assumed)
+
 The game was creted for FullHD resolution size. Launched on Apple M1 pro(10 CPU, 16 GPU, 16GB unified memory) without any problems.
-5. Acknowledgment and list of all assets used in the game.
+
+Acknowledgment and list of all assets used in the game:
 YouTube tutorials about the implementation of some game mechanics.
 Unity 2D RPG course - https://www.gamedev.tv/courses/unity-2d-rpg-combat
 Assets:
@@ -18,6 +17,8 @@ Font - https://assetstore.unity.com/account/assets
 
 Game trailer:
 
-
 https://github.com/user-attachments/assets/6cbc9716-82a2-49c9-9510-1d7330c9bc7d
+
+Created by Oleksandr Shvydanenko on the Game Development class.
+
 
