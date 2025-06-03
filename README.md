@@ -19,6 +19,6 @@ Game trailer:
 
 https://github.com/user-attachments/assets/6cbc9716-82a2-49c9-9510-1d7330c9bc7d
 
-Created by Oleksandr Shvydanenko on the Game Development class.
+Created by Oleksandr Shvydanenko шту the Game Development course.
 
 
